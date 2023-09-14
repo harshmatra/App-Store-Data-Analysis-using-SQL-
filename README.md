@@ -1,5 +1,6 @@
 # App-Store-Data-Analysis-using-SQL-
-*App Store Data Analysis using SQL*
+
+App Store Data Analysis using SQL
 
 This project focuses on analyzing app ratings using SQL to gain insights into various factors that influence app ratings. The analysis was conducted on a dataset of apps from a diverse range of categories.
 Project Findings
